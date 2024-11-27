@@ -1,0 +1,6 @@
+board:
+  name: nrf_baseboard_52820
+  full_name: NRF52820 Baseboard
+  vendor: siphi1239
+  socs:
+  - name: nrf52820

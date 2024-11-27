@@ -1,0 +1,7 @@
+# BOARD_NRF_BASEBOARD_52820 configuration
+
+# Copyright (c) 2024 siphi1239
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_NRF_BASEBOARD_52820
+	select SOC_NRF52820_QDAA
